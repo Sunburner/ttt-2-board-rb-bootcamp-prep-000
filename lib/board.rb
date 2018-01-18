@@ -1,2 +1,2 @@
 # Define the variable board below.
-v = "board"
+board [1..0]*
